@@ -1,2 +1,2 @@
 # BisectionRoot
-A NATLAB program that solves for the root of a nonlinear equation using the Bisection method.
+A MATLAB program that solves for the root of a nonlinear equation using a root-finding method known as the Bisection method.
